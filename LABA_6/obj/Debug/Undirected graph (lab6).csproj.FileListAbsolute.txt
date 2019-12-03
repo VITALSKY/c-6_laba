@@ -1,0 +1,19 @@
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\bin\Debug\Undirected graph (lab6).exe.config
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\bin\Debug\Undirected graph (lab6).exe
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\bin\Debug\Undirected graph (lab6).pdb
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected graph (lab6).csprojAssemblyReference.cache
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected_graph__lab6_.Form1.resources
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected_graph__lab6_.Properties.Resources.resources
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected graph (lab6).csproj.GenerateResource.cache
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected graph (lab6).exe
+E:\Учеба\Разработка Windows-приложений\Undirected graph (lab6)\obj\Debug\Undirected graph (lab6).pdb
+C:\Users\Владелец\Desktop\LABA_6\bin\Debug\Undirected graph (lab6).exe.config
+C:\Users\Владелец\Desktop\LABA_6\bin\Debug\Undirected graph (lab6).exe
+C:\Users\Владелец\Desktop\LABA_6\bin\Debug\Undirected graph (lab6).pdb
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected graph (lab6).csprojAssemblyReference.cache
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected_graph__lab6_.Form1.resources
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected_graph__lab6_.Properties.Resources.resources
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected graph (lab6).csproj.GenerateResource.cache
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected graph (lab6).csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected graph (lab6).exe
+C:\Users\Владелец\Desktop\LABA_6\obj\Debug\Undirected graph (lab6).pdb
